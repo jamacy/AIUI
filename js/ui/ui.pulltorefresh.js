@@ -1,6 +1,4 @@
-/**
- * Created by huangyl on 2014/11/18.
- */
+
 define(function (require, exports, module) {
     require('ui/basic');
     require('vendor/iscroll/iscroll');;
